@@ -15,7 +15,7 @@
 ---
 
 ## [Project Context](#projectcontext)
-Like every plant parent that shares and suffers that great deal of stress of leaving their plant babies alone at home while they are overseas, I have decided a DIY method using IOT to customise and solve my problem. I mean what could go wrong.......right? 
+Like every plant parent that suffers a great deal of stress when leaving their plant babies alone at home while they are overseas, I have decided a DIY method using IOT to customise and solve my problem. I mean what could go wrong.......right? 
 <br></br>
 `*Insert nervous laughter*`
 
